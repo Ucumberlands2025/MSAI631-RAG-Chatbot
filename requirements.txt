@@ -1,0 +1,7 @@
+# Versions bounded to reduce breaking API changes; Python 3.11 recommended.
+gradio==6.5.1
+transformers>=4.45,<5
+sentence-transformers>=3.2,<6
+sentencepiece>=0.2,<0.3
+numpy>=1.26,<3
+torch>=2.2,<3

@@ -1,0 +1,7 @@
+FICTIONAL SAMPLE CONTENT — DEMONSTRATION ONLY. THIS IS NOT OFFICIAL UNIVERSITY GUIDANCE.
+
+For the demonstration learning platform, a student having trouble opening a course resource should first confirm the link, refresh the page, and try a different browser. If the problem continues, the student should send the fictional help desk a description of the issue and a screenshot that does not reveal private information.
+
+The demonstration chatbot accepts typed questions. Users should ask about a topic covered in the sample documents. The assistant attempts to retrieve matching reference passages, generate a short answer, and display the source excerpts so that users can check the result.
+
+The chatbot cannot access real grades, student accounts, private course materials, or a live university timetable. It has no access to current weather or emergency information. Its sources are limited to the files included in this demonstration.
